@@ -1,0 +1,39 @@
+@media (max-width: 767px) {
+    .menu-icon {
+        display: block;
+        visibility: visible;
+      }
+
+    .header-right {
+        display: none;
+    }
+
+    .input {
+        width: 75%
+    }
+
+    .input-submit {
+        width: 75%;
+    }
+
+    .about-wrapper p {
+        font-size: 25px;
+    }
+
+    .section-title {
+        font-size: 35px;
+    }
+    .img p {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 1450px) {
+ .img-wrapper {
+    flex-wrap: wrap;
+ }
+
+ .img {
+    width: 50%
+ }
+}
